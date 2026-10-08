@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="116" viewBox="0 0 1000 116" role="img" aria-labelledby="title">
+  <title id="title">Project toolbox: Python, Java, TypeScript, Docker, Spring Boot, Vue, MySQL, Redis</title>
+  <rect width="1000" height="116" rx="14" fill="#0F192A"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="17" font-weight="600" fill="#D8E2F1">
+    <g transform="translate(24 20)"><rect width="224" height="32" rx="7" fill="#17263A"/><circle cx="18" cy="16" r="4" fill="#FACC15"/><text x="34" y="22">Python</text></g>
+    <g transform="translate(267 20)"><rect width="224" height="32" rx="7" fill="#17263A"/><circle cx="18" cy="16" r="4" fill="#FB923C"/><text x="34" y="22">Java</text></g>
+    <g transform="translate(510 20)"><rect width="224" height="32" rx="7" fill="#17263A"/><circle cx="18" cy="16" r="4" fill="#60A5FA"/><text x="34" y="22">TypeScript</text></g>
+    <g transform="translate(753 20)"><rect width="224" height="32" rx="7" fill="#17263A"/><circle cx="18" cy="16" r="4" fill="#38BDF8"/><text x="34" y="22">Docker</text></g>
+    <g transform="translate(24 64)"><rect width="224" height="32" rx="7" fill="#17263A"/><circle cx="18" cy="16" r="4" fill="#A3E635"/><text x="34" y="22">Spring Boot</text></g>
+    <g transform="translate(267 64)"><rect width="224" height="32" rx="7" fill="#17263A"/><circle cx="18" cy="16" r="4" fill="#34D399"/><text x="34" y="22">Vue</text></g>
+    <g transform="translate(510 64)"><rect width="224" height="32" rx="7" fill="#17263A"/><circle cx="18" cy="16" r="4" fill="#7DD3FC"/><text x="34" y="22">MySQL</text></g>
+    <g transform="translate(753 64)"><rect width="224" height="32" rx="7" fill="#17263A"/><circle cx="18" cy="16" r="4" fill="#FB7185"/><text x="34" y="22">Redis</text></g>
+  </g>
+</svg>
