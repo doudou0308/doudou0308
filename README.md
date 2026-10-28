@@ -2,9 +2,9 @@
 
 #### 🧠 [CTF Wiki](https://github.com/doudou0308/ctf-wiki)
 
-**面向 LLM Agent 的 CTF 知识图谱。** 通过结构化知识页面、检索触发词和交叉引用，连接解题思路与参考资料；支持在 Obsidian 中浏览。
+**面向 LLM Agent 的 CTF 知识库。** 通过结构化知识页面、检索触发词和交叉引用，连接解题思路与参考资料；支持在 Obsidian 中浏览。
 
-`LLM Agents` · `Knowledge Graph` · `CTF` · `Obsidian`
+`LLM Agents` · `Knowledge Base` · `CTF` · `Obsidian`
 
 #### 🐳 [Agent Docker Tools](https://github.com/doudou0308/agent-docker-tools)
 
