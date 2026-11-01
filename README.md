@@ -18,6 +18,12 @@
 
 `Burp Suite` · `Jython` · `Web Security` · `JSONP`
 
+#### 🛡️ [CORS Hunter](https://github.com/doudou0308/CORS-Hunter)
+
+**用于 CORS 配置检测与浏览器复核的 Burp Suite 扩展。** 支持 Origin 规则探测、预检校验和复核页面导出，区分响应策略信号与实际跨域读取能力。
+
+`Burp Suite` · `Java` · `CORS` · `Web Security`
+
 #### ⚡ [MultiLang OJ](https://github.com/doudou0308/MultiLang-OJ-LLM)
 
 **基于 Spring Boot + Vue 3 的多语言在线判题系统。** 支持 Java / C 编译运行，将后端服务、题目数据与在线代码编辑连接起来。
