@@ -28,3 +28,7 @@ A collection of linked CTF notes. Browse by topic in Obsidian, or follow the sam
 - [Campus Second-Hand Marketplace](https://github.com/doudou0308/campus-second-hand) — A marketplace frontend with category browsing and form validation.
 
 </details>
+
+## GitHub activity
+
+[![GitHub contribution activity over the last 31 days](https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=doudou0308&bg_color=0e222b&color=a6cfc2&line=80cbbd&point=dceadf&hide_border=true&hide_title=true&height=220&grid=false)](https://github.com/Ashutosh00710/github-readme-activity-graph)
