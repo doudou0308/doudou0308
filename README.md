@@ -1,4 +1,7 @@
-<img src="./assets/dusk.webp" width="100%" alt="A straw-hat dog and a lantern overlooking a mountain valley at dusk." />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/dusk.webp" />
+  <img src="./assets/night-valley.gif" width="100%" alt="Fireflies drift across a mountain valley. A dog in a straw hat sits beside a glowing lantern." />
+</picture>
 
 ## Selected projects
 
