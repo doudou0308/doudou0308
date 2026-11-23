@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/open-water-still.png" />
-  <img src="./assets/open-water.gif" width="100%" alt="Two ASCII sharks swim apart and cross paths while a typing cat traces a curve that overtakes a rising frontier." />
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/code-tide-still.png" />
+  <img src="./assets/code-tide.svg" width="100%" alt="Welcome to my GitHub profile. Code symbols settle into letters as two sharks glide past a typing cat." />
 </picture>
 
 ## Selected projects
