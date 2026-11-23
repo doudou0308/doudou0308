@@ -11,6 +11,10 @@
   <a href="https://blog.csdn.net/2404_88612611"><img src="./assets/csdn.png" width="32" height="32" alt="CSDN" /></a>
   &emsp;
   <a href="https://www.cnblogs.com/doudou0908"><img src="./assets/cnblogs.png" width="32" height="32" alt="博客园 (CNBlogs)" /></a>
+  &emsp;
+  <a href="https://www.jianshu.com/u/cf8642420639"><img src="./assets/jianshu.png" width="32" height="32" alt="简书 (Jianshu)" /></a>
+  &emsp;
+  <a href="https://www.zhihu.com/people/93-19-10-97"><img src="./assets/zhihu.png" width="32" height="32" alt="知乎 (Zhihu)" /></a>
   <br />
   <em>I write about security and the tools I build.</em>
 </p>
