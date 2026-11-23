@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/ascent-still.png" />
-  <img src="./assets/ascent.gif" width="100%" alt="Asympt — Into the unknown, one step at a time. A typing cat draws a curve that follows a rising asymptote beyond the edge of the frame." />
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/open-water-still.png" />
+  <img src="./assets/open-water.gif" width="100%" alt="Two ASCII sharks swim apart and cross paths while a typing cat traces a curve that overtakes a rising frontier." />
 </picture>
 
 ## Selected projects
