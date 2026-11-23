@@ -1,16 +1,6 @@
 <p align="center">
-  <img src="./assets/field-notes.svg" width="100%" alt="doudou — From CTF notes to security tools." />
+  <img src="./assets/field-notes.svg" width="100%" alt="doudou" />
 </p>
-
-<p align="center">
-  <a href="#selected-work">Selected Work</a> &nbsp; / &nbsp;
-  <a href="#on-my-workbench">On My Workbench</a> &nbsp; / &nbsp;
-  <a href="https://blog.csdn.net/2404_88612611">Writing</a>
-</p>
-
-I'm **doudou**, a cybersecurity undergraduate. I turn CTF notes and security questions into knowledge bases, small tools, and reproducible experiments.
-
-My current interests are **web security**, **reverse engineering**, and **agent-assisted CTF workflows**. I'm also starting to explore firmware and embedded security.
 
 ### Selected Work
 
@@ -65,19 +55,3 @@ A multilingual online judge built with Spring Boot and Vue 3. Connects an online
 - **[Campus Second-Hand Marketplace](https://github.com/doudou0308/campus-second-hand)** — A static frontend demo with category browsing and form validation, built with HTML, CSS, and vanilla JavaScript.
 
 </details>
-
-### On My Workbench
-
-- **Web security** — understanding browser behavior and checking findings beyond HTTP responses.
-- **Reverse engineering** — learning executable formats, program analysis, and debugging.
-- **Firmware &amp; embedded security** — exploring how my security background connects with an interest in drones.
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,c,py,mysql,docker,linux,git,vscode&amp;theme=dark" height="38" alt="Project tools: Java, C, Python, MySQL, Docker, Linux, Git and VS Code" />
-</p>
-
----
-
-<p align="center">
-  <sub>Read the code. Reproduce the behavior. Write down what holds up.</sub>
-</p>
