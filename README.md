@@ -5,9 +5,7 @@
 
 ### 👋 Hey, I’m Asympt.
 
-I borrowed my name from *asymptote*. The dog in the straw hat is me. The cat in the corner does the typing. 🐾
-
-I like questions I can settle with a small experiment. If a server sends a response, for example, can the page that asked for it actually read it? That’s the question behind CORS Hunter.
+<img src="./assets/blob-sunglasses.gif" width="32" height="32" alt="Smiling face wearing sunglasses" />
 
 ## ⚓ Selected projects
 
