@@ -5,33 +5,34 @@
 
 ### Hey, I’m Asympt 👋
 
-When a piece of software does something I didn’t expect, I like to figure out why. I write down what I learn and build small tools for things I keep doing by hand.
+🔍 When software does something I didn’t expect, I like to figure out why.
 
-A few of those projects are below. Feel free to look around.
+🛠️ I write down what I learn and build small tools for things I keep doing by hand.
 
-## Selected projects
+🌊 A few of those projects are below. Feel free to look around.
 
-### [CTF Wiki](https://github.com/doudou0308/ctf-wiki)
+## ⚓ Selected projects
 
-A collection of linked CTF notes. Browse by topic in Obsidian, or follow the same references with an LLM agent.
+### 🧰 Developer tools
 
-[Agent Docker Tools](https://github.com/doudou0308/agent-docker-tools) pairs the wiki with a reusable Docker environment for analysis tools and GhidraMCP.
+**[Agent Docker Tools](https://github.com/doudou0308/agent-docker-tools)** sets up a reusable Docker environment for analysis tools, including GhidraMCP.
 
-### Browser security
+### 🛡️ Browser security
 
-**[CORS Hunter](https://github.com/doudou0308/CORS-Hunter)** checks CORS headers and preflight responses in Burp Suite, then exports a page for verifying what the browser can read.
+🌐 **[CORS Hunter](https://github.com/doudou0308/CORS-Hunter)** checks CORS headers and preflight responses in Burp Suite, then exports a page for verifying what the browser can read.
 
-**[JSONP Hunter](https://github.com/doudou0308/Jsonp_Hunter)** checks whether an endpoint accepts a custom JSONP callback. A Burp Suite extension adapted from [kapytein/jsonp](https://github.com/kapytein/jsonp).
+🔎 **[JSONP Hunter](https://github.com/doudou0308/Jsonp_Hunter)** checks whether an endpoint accepts a custom JSONP callback. A Burp Suite extension adapted from [kapytein/jsonp](https://github.com/kapytein/jsonp).
 
-### Applications
+### 💻 Applications
 
-**[MultiLang OJ](https://github.com/doudou0308/MultiLang-OJ-LLM)** is an online judge with a Vue editor and a Spring Boot backend for compiling and running Java and C submissions.
+⌨️ **[MultiLang OJ](https://github.com/doudou0308/MultiLang-OJ-LLM)** is an online judge with a Vue editor and a Spring Boot backend for compiling and running Java and C submissions.
 
 <details>
-<summary>More projects</summary>
+<summary>📂 More projects</summary>
 
-- [Rally Navigator Chinese Localization](https://github.com/doudou0308/Rally-Navigator-translate-CN) — Simplified Chinese translations with install and restore scripts.
-- [Campus Second-Hand Marketplace](https://github.com/doudou0308/campus-second-hand) — A marketplace frontend with category browsing and form validation.
+- 📚 [CTF Wiki](https://github.com/doudou0308/ctf-wiki) — Linked notes browsable by topic in Obsidian.
+- 🗺️ [Rally Navigator Chinese Localization](https://github.com/doudou0308/Rally-Navigator-translate-CN) — Simplified Chinese translations with install and restore scripts.
+- 🛒 [Campus Second-Hand Marketplace](https://github.com/doudou0308/campus-second-hand) — A marketplace frontend with category browsing and form validation.
 
 </details>
 
