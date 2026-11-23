@@ -3,6 +3,12 @@
   <img src="./assets/code-tide.svg" width="100%" alt="Welcome to my GitHub profile. Code symbols settle into letters as two sharks glide past a typing cat." />
 </picture>
 
+### Hey, I’m Asympt 👋
+
+When a piece of software does something I didn’t expect, I like to figure out why. I write down what I learn and build small tools for things I keep doing by hand.
+
+A few of those projects are below. Feel free to look around.
+
 ## Selected projects
 
 ### [CTF Wiki](https://github.com/doudou0308/ctf-wiki)
