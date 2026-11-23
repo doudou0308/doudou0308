@@ -3,29 +3,28 @@
   <img src="./assets/code-tide.svg" width="100%" alt="Welcome to my GitHub profile. Code symbols settle into letters as two sharks glide past a typing cat." />
 </picture>
 
-### Hey, I’m Asympt 👋
+### 👋 Hey, I’m Asympt.
 
-🔍 When software does something I didn’t expect, I like to figure out why.
+I borrowed my name from *asymptote*. The dog in the straw hat is me. The cat in the corner does the typing. 🐾
 
-🛠️ I write down what I learn and build small tools for things I keep doing by hand.
-
-🌊 A few of those projects are below. Feel free to look around.
+I like questions I can settle with a small experiment. If a server sends a response, for example, can the page that asked for it actually read it? That’s the question behind CORS Hunter.
 
 ## ⚓ Selected projects
 
-### 🧰 Developer tools
+### ⌨️ [MultiLang OJ](https://github.com/doudou0308/MultiLang-OJ-LLM)
 
-**[Agent Docker Tools](https://github.com/doudou0308/agent-docker-tools)** sets up a reusable Docker environment for analysis tools, including GhidraMCP.
+Pick a problem, write a solution in Java or C, and run it against test cases. The editor, judge, and submission history all run locally.
 
-### 🛡️ Browser security
+`Vue 3` · `Spring Boot` · [Getting started ↗](https://github.com/doudou0308/MultiLang-OJ-LLM/blob/main/docs/getting-started.md)
 
-🌐 **[CORS Hunter](https://github.com/doudou0308/CORS-Hunter)** checks CORS headers and preflight responses in Burp Suite, then exports a page for verifying what the browser can read.
+### 🧰 [Agent Docker Tools](https://github.com/doudou0308/agent-docker-tools)
 
-🔎 **[JSONP Hunter](https://github.com/doudou0308/Jsonp_Hunter)** checks whether an endpoint accepts a custom JSONP callback. A Burp Suite extension adapted from [kapytein/jsonp](https://github.com/kapytein/jsonp).
+A Docker workspace that keeps Ghidra, its MCP bridge, and the rest of the analysis tools together.
 
-### 💻 Applications
+### 🔎 Browser tools
 
-⌨️ **[MultiLang OJ](https://github.com/doudou0308/MultiLang-OJ-LLM)** is an online judge with a Vue editor and a Spring Boot backend for compiling and running Java and C submissions.
+- 🌐 **[CORS Hunter](https://github.com/doudou0308/CORS-Hunter)** checks cross-origin headers in Burp Suite and exports a page for checking what the browser can read.
+- 🧩 **[JSONP Hunter](https://github.com/doudou0308/Jsonp_Hunter)** checks which endpoints accept a custom callback. Adapted from [kapytein/jsonp](https://github.com/kapytein/jsonp).
 
 <details>
 <summary>📂 More projects</summary>
