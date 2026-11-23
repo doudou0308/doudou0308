@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/asympt-still.png" />
-  <img src="./assets/asympt.gif" width="100%" alt="Asympt — Into the unknown, one step at a time. A typing cat draws a rising curve that approaches y = 1." />
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/ascent-still.png" />
+  <img src="./assets/ascent.gif" width="100%" alt="Asympt — Into the unknown, one step at a time. A typing cat draws a curve that follows a rising asymptote beyond the edge of the frame." />
 </picture>
 
 ## Selected projects
