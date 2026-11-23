@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/dusk.webp" />
-  <img src="./assets/night-valley.gif" width="100%" alt="Fireflies drift across a mountain valley. A dog in a straw hat sits beside a glowing lantern." />
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/asympt-still.png" />
+  <img src="./assets/asympt.gif" width="100%" alt="Asympt — Into the unknown, one step at a time. A typing cat draws a rising curve that approaches y = 1." />
 </picture>
 
 ## Selected projects
