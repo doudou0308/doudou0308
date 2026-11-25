@@ -21,7 +21,7 @@
 
 ## ⚓ Selected projects
 
-### 🧠 [ExamMind Studio · 知衡](https://github.com/doudou0308/ExamMind_Studio)
+### 🧠 [ExamMind Studio](https://github.com/doudou0308/ExamMind_Studio)
 
 An AI-assisted question bank and online examination system with DeepSeek question generation, genetic algorithm based paper assembly, and wrong-answer analysis.
 
