@@ -21,6 +21,14 @@
 
 ## ⚓ Selected projects
 
+### 🧠 [ExamMind · 知衡](https://github.com/doudou0308/ExamMind)
+
+An AI-assisted question bank and online examination system with DeepSeek question generation, genetic algorithm based paper assembly, and wrong-answer analysis.
+
+面向 Java 课程设计的题库与考试系统，支持在线考试、智能组卷、错题分析与学习周报。
+
+`Vue 3` · `Spring Boot` · `MySQL` · `DeepSeek` · [Overview & screenshots ↗](https://github.com/doudou0308/ExamMind#readme) · [Course design guide ↗](https://github.com/doudou0308/ExamMind/blob/main/docs/course-design.md)
+
 ### ⌨️ [MultiLang OJ](https://github.com/doudou0308/MultiLang-OJ-LLM)
 
 Pick a problem, write a solution in Java or C, and run it against test cases. The editor, judge, and submission history all run locally.
